@@ -8,7 +8,7 @@
  * 
  */
 
-public class Testing {
+public class Testing { //abc
     /**
      * Costruttore
      */
