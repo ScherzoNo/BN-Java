@@ -4,9 +4,13 @@ Partendo dalla sua definizione, si vuole implementare un programma in Java che p
 
 
 1 Portaerei con 5 caselle
+<br>
 1 Corazzata con 4 caselle
+<br>
 2 Crociere con 3 caselle
+<br>
 3 Sottomarini con 3 caselle
+<br>
 3 Navi d’assalto con 2 caselle
 
 
