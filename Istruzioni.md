@@ -1,4 +1,4 @@
-##1 Def
+# 1 Def
 https://it.wikipedia.org/wiki/Battaglia_navale_(gioco)
 Partendo dalla sua definizione, si vuole implementare un programma in Java che permetta di giocare a battaglia navale contro un avversario rappresentato dal computer. Il campo da gioco di ciascun giocatore corrisponderà ad una griglia 10x10 come nella spiegazione del gioco. Ogni giocatore ha in dotazione una flotta di 10 navi, così composta:
 
@@ -17,7 +17,7 @@ All’inizio di ogni turno dovrà essere visualizzata la griglia dell’utente, 
 
 Vince il giocatore che affonderà per primo l’intera flotta avversaria.
 
-#2 R
+# 2 R
 1 o più classi tester.
 Applicazione dell’Object Oriented Programming (OOP)
 Il progetto dovrà essere sviluppato rispettando l’OOP affrontato nei suoi vari aspetti durante il corso. A tale scopo, la valutazione verterà sui seguenti punti:
@@ -48,5 +48,5 @@ Manuale della GUI: in caso di progetto contenente una parte grafica, dovrà esse
 Referenti di sviluppo: per ogni funzionalità e/o schermata sviluppata dovrà essere indicato il corrispettivo referente o all’interno del gruppo 
 File README: ogni progetto deve essere corredato dalla presenza di un file readme in cui viene descritto tutto ciò che è utile alla compilazione del progetto ed alla sua esecuzione.
 
-#3 In
+# 3 In
 ...
