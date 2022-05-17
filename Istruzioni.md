@@ -1,4 +1,4 @@
-#1 Def
+##1 Def
 https://it.wikipedia.org/wiki/Battaglia_navale_(gioco)
 Partendo dalla sua definizione, si vuole implementare un programma in Java che permetta di giocare a battaglia navale contro un avversario rappresentato dal computer. Il campo da gioco di ciascun giocatore corrisponderà ad una griglia 10x10 come nella spiegazione del gioco. Ogni giocatore ha in dotazione una flotta di 10 navi, così composta:
 
