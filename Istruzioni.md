@@ -35,7 +35,7 @@ Utilizzo del polimorfismo volto ad incentivare l’estensibilità delle classi.
 
 Le funzionalità richieste all’interno del ciascun progetto dovranno essere sviluppate secondo le specifiche riportate. La valutazione di questa sezione verterà quindi sulla quantità e sulla qualità di funzioni sviluppate.
 
-## Documentazione, Relazione, codice sorgente
+## Documentazione, relazione, codice sorgente
 
 La documentazione del codice dovrà rispettare gli standard introdotti durante il corso. In particolar modo, il progetto dovrà essere corredato dalla corrispettiva documentazione JavaDoc per ogni classe presente al suo interno. Verrà inoltre richiesta la presenza di variabili il cui nome sia parlante e la scrittura di attributi e metodi secondo la corretta naming convention utilizzata in Java.
 
