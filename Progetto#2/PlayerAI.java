@@ -5,7 +5,7 @@
  * 
  * JavaSE-17
  *
- * ©
+ * Â©
  * 
  * Descrizione programma 
  */
@@ -14,7 +14,7 @@ package BattagliaNavale;
 
 import java.util.Random;
 
-public class PlayerAI extends Player implements PlayerAction {
+public class PlayerAI extends Player implements PlayerAction, PlayerPosition {
 	
 	private String genCoord() {
 		Random rand = new Random();
