@@ -5,7 +5,7 @@
  * 
  * JavaSE-17
  *
- * ©
+ * Â©
  * 
  * Descrizione programma 
  */
@@ -15,7 +15,7 @@ package BattagliaNavale;
 import java.awt.Color;
 import java.util.*;
 
-public class Player implements PlayerAction {
+public class Player implements PlayerAction, PlayerPosition {
 	protected Board board = new Board();
 	private Scanner reader = new Scanner(System.in);
 	
