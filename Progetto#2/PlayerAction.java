@@ -5,7 +5,7 @@
  * 
  * JavaSE-17
  *
- * ©
+ * Â©
  * 
  * Descrizione programma 
  */
@@ -14,5 +14,4 @@ package BattagliaNavale;
 
 public interface PlayerAction {
 	public String shoot();
-	public void arrangeWatercrafts();
 }
