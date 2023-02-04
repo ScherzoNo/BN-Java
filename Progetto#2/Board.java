@@ -17,8 +17,8 @@ import javax.swing.*;
 import java.awt.Font;
 
 public class Board {
-	private int boardLenght = 10;
-	private int boardHeight = 10;
+	private final static int boardLenght = 10;
+	private final static int boardHeight = 10;
 	private JLabel playerBoard[][] = new JLabel[boardHeight][boardLenght];
 	private JLabel hitBoard[][] = new JLabel[boardHeight][boardLenght];
 	private JLabel lb = new JLabel("Battaglia navale", SwingConstants.CENTER);

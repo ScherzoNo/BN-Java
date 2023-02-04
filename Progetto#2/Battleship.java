@@ -18,12 +18,11 @@ public class Battleship {
 	Player player1 = new Player();
 	PlayerAI player2 = new PlayerAI();
 	
-	public void arrange() {
-		player2.arrangeWatercrafts();
-		player1.arrangeWatercrafts();	
+	public Battleship() {
+		game();
 	}
 	
-	public void game() {
+	private final void game() {
 		boolean win = false;
 		String coord;
 		int x;

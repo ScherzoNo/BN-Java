@@ -27,13 +27,13 @@ public class Watercraft {
 		
 		if (n == "Portaerei") {
 			size = 5;
-		} else if (n=="Corazzata") {
+		} else if (n == "Corazzata") {
 			size = 4;
-		} else if (n=="Crociera") {
+		} else if (n == "Crociera") {
 			size = 3;
-		} else if (n=="Sottomarino") {
+		} else if (n == "Sottomarino") {
 			size = 3;
-		} else if (n=="NaveAssalto") {
+		} else if (n == "NaveAssalto") {
 			size = 2;
 		}
 	}

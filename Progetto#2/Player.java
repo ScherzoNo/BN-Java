@@ -18,6 +18,10 @@ import java.util.*;
 public class Player implements PlayerAction {
 	protected Board board = new Board();
 	private Scanner reader = new Scanner(System.in);
+	
+	public Player() {
+		arrangeWatercrafts();
+	}
 
 	protected void modify(char height, int x, int len, char o) {
 		int y = height - 65;
