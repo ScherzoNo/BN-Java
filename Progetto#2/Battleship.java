@@ -5,7 +5,7 @@
  * 
  * JavaSE-17
  *
- * ©
+ * Â©
  * 
  * Descrizione programma 
  */
@@ -13,6 +13,7 @@
 package BattagliaNavale;
 
 import java.awt.Color;
+import java.util.*;
 
 public class Battleship {
 	Player player1 = new Player();
